@@ -1,0 +1,227 @@
+h2{
+   color: greenyellow;
+   font-weight: normal;
+   line-height: 40px;
+   margin: 0 0 20px ;
+}
+
+h2{ font-size: 30px; }
+
+
+body{
+    font-family: arial; 
+    font-size: 13px; 
+    line-height: 17px; 
+    width: 1350px; 
+    margin: 35px; 
+    background: url('desert camo.jpg') ;
+}
+
+#page{ margin: 20px; }
+
+
+#logo{
+	width: 2px;
+	margin-top: 5px;
+	font-family: georgia;
+	display: inline-block;
+}
+
+#nav{
+	width: 500px;
+	display: inline-block;
+	text-align: right;
+	float: right;
+}
+	#nav ul{}
+		#nav ul li{
+			display: inline-block;
+			height: 62px;
+		}
+			#nav ul li a{
+				padding: 10px;
+				background: gray;
+				color: greenyellow;
+                                font-weight: bold;
+                                text-transform: uppercase;
+                                font-size: 11px;
+			}
+			#nav ul li a:hover{
+				background-color: black;
+				
+			}
+	#nav ul li a:active{ background-color: green }
+        
+        
+
+#img{
+    background-image: url('death.jpg');
+    width: 900px;
+    height: 450px;
+    padding: 80px 50px 80px;
+    margin: 100px 130px;
+    
+}
+
+#img>pre{
+    font-weight: bold;
+    font-style: italic;
+    color: greenyellow;
+	padding: 20px ;
+    font-size: 30px;
+    position: relative;
+  text-align: center;
+  top:490px;
+}
+
+#content{
+	margin: 30px 0;
+	background: darkolivegreen;
+	padding: 20px;
+	clear: both;
+}
+
+#content>p{
+    color:beige;
+}
+
+#content>h3{
+    font-size: 17px;
+    color: black;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 0px 50px;
+    text-align:center;
+    text-transform: uppercase;
+    
+}
+#content>ul>li{
+    color:beige;
+}
+#content1{
+	margin: 30px 0;
+	background: darkolivegreen;
+	padding: 20px;
+	clear: both;
+}
+#content1>h3{
+    font-size: 17px;
+    color: black;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 0px 50px;
+    text-align:center;
+    text-transform: uppercase;
+    
+}
+.ground{
+    display: inline-block;
+    padding: 0px 45px 0px;
+    margin: 0px 15px 0px;
+}
+.tank{
+    display: inline-block;
+    padding: 0px 45px 0px;
+    margin: 0px 15px 0px;
+}
+
+
+#content2{
+	margin: 30px 0;
+	background: darkolivegreen;
+	padding: 20px;
+	clear: both;
+}
+
+
+#content3{
+	margin: 30px 0;
+	background: darkolivegreen;
+	padding: 20px;
+	clear: both;
+}
+#content3>p{
+    color:gray;
+}
+
+#content3>h3{
+    font-size: 17px;
+    color: black;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 0px 50px;
+    text-align:center;
+    text-transform: uppercase;
+    
+}
+#content3>ul>li{
+    color:gray;
+}
+
+#content4{
+	margin: 30px 0;
+	background: darkolivegreen;
+	padding: 20px;
+	clear: both;
+}
+#content4>p{
+    color:gray;
+}
+
+#content4>h3{
+    font-size: 17px;
+    color: black;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 0px 50px;
+    text-align:center;
+    text-transform: uppercase;
+    
+}
+#content4>ul>li{
+    color:gray;
+}
+#footer{
+	border-bottom: 1px solid;
+	margin-bottom: 10px;
+}
+	#footer p{
+		text-align: right;
+		text-transform: uppercase;
+		font-size: 10px;
+		color: black;
+	}
+
+
+
+.wordname{
+    color: blue;
+    text-decoration: none;
+    background-color: beige;
+    border-radius: 10px;
+    padding: 0px 95px;
+    text-transform: uppercase;
+}
+
+
+
+
+.word>p{
+    text-align: center;
+    
+
+}
+
+.word{
+    display: inline-block;
+    padding: 0px 10px 0px;
+    margin: 0px 15px 0px;
+}
+
+.word p a {
+    font-size: 13.5px;
+
+}
+
+
+
