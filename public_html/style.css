@@ -14,7 +14,7 @@ body{
     line-height: 17px; 
     width: 1350px; 
     margin: 35px; 
-    background: url('desert camo.jpg') ;
+    background: url('images/desert camo.jpg') ;
 }
 
 #page{ margin: 20px; }
@@ -55,7 +55,7 @@ body{
         
 
 #img{
-    background-image: url('death.jpg');
+    background-image: url('images/death.jpg');
     width: 900px;
     height: 450px;
     padding: 80px 50px 80px;
@@ -132,8 +132,12 @@ body{
 	padding: 20px;
 	clear: both;
 }
-
-
+#content2>p{
+    text-align: center;
+}
+#image{
+    
+}
 #content3{
 	margin: 30px 0;
 	background: darkolivegreen;
