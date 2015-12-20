@@ -277,9 +277,13 @@ body{
     text-transform: uppercase;
     
 }
-#content4>ul>li{
-    color:gray;
+.special{
+    display: inline-block;
+    padding: 0px 25px 0px;
+    margin: 0px 15px 0px;
+    
 }
+
 #footer{
 	border-bottom: 1px solid;
 	margin-bottom: 10px;
