@@ -135,9 +135,54 @@ body{
 #content2>p{
     text-align: center;
 }
-#image{
-    
+#content2>h4{
+    font-size: 17px;
+    color: black;
+    padding: 0px 50px;
+    text-align:center;
 }
+#content2>h3{
+    font-size: 17px;
+    color: black;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 0px 50px;
+    text-align:center;
+    text-transform: uppercase;
+}
+.planename{
+    color: blue;
+    text-decoration: none;
+    background-color: beige;
+    border-radius: 10px;
+    padding: 0px 95px;
+    text-transform: uppercase;
+}
+
+
+
+
+.plane>p{
+    text-align: center;
+    
+
+}
+
+.plane{
+    display: inline-block;
+    padding: 0px 10px 0px;
+    margin: 0px 35px 0px;
+}
+
+.plane p a {
+    font-size: 13.5px;
+
+}
+#planee{
+    border: 7px solid black;
+   
+}
+
 #content3{
 	margin: 30px 0;
 	background: darkolivegreen;
